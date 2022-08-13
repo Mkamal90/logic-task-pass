@@ -1,0 +1,12 @@
+Q1 \\ 
+str = "mk store"
+print (str)
+new_str = str.replace('s', 'r')
+print ("the resulte  : " + new_str)
+
+
+Q2 \\
+from math import *
+for M in range (1,10):
+    if M % 2 != 0 :
+        print (M) 
